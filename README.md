@@ -1,4 +1,4 @@
-## Hi there 👋 , I Abhinam Kr.
+## Hi there 👋 , I am Abhinam Kr.
 
 
 <!--
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-!!<br>Currently Working On Web Development
+<br>Currently Working On Web Development
 
 
 ## 🌐 Socials:
