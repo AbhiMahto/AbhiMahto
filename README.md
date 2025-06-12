@@ -1,5 +1,5 @@
-## Hi there 👋
-I am Abhinam Kumar
+## Hi there 👋 , I Abhinam Kr.
+
 
 <!--
 **AbhiMahto/AbhiMahto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hello There !!<br>Currently Working On Web Development
+!!<br>Currently Working On Web Development
 
 
 ## 🌐 Socials:
