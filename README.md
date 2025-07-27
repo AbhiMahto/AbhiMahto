@@ -1,4 +1,4 @@
-## Hi there 👋 , I am Abhinam Kr.
+## Hi there 👋 , I am Abhinam Mahato.
 
 
 <!--
