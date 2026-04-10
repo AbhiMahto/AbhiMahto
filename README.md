@@ -9,8 +9,8 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **Full-Stack Web Development** and building AI-powered web applications
--🌱 Currently strengthening expertise in Full-Stack Web Development **React.js, Backend APIs with Python/Node.js**
+- 🔭 I’m currently working on **Full-Stack Web Development** and building AI-powered web applications.
+- 🌱 Currently strengthening expertise in Full-Stack Web Development **React.js, Backend APIs with Python/Node.js**.
 - 👯 I’m looking to collaborate on **innovative MERN Stack & Next.js projects**.
 - 💡 I love building tools that solve real-world problems (like the *Smart Passport Photo Maker* and local cafe utilities!).
 - 📫 How to reach me: [abhinamkumar2222@gmail.com](mailto:abhinamkumar2222@gmail.com)
