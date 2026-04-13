@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
+  <a href="https://port-folio-gamma-ten.vercel.app/">
     <img src="https://visitcount.itsvg.in/api?id=AbhiMahto&icon=0&color=0" alt="Profile Views" />
   </a>
 </p>
